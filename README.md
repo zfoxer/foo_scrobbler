@@ -1,7 +1,7 @@
 # Foo Scrobbler
 
 **Native Last.fm scrobbling for foobar2000.**  
-Runs inside foobar2000 (no wrappers), follows strict playback qualification rules, supports “Now Playing”, and keeps a local queue when you’re offline. One-time authentication, then it stays quiet.
+Runs inside foobar (no wrappers), follows strict playback qualification rules, supports “Now Playing”, and keeps a local queue when you’re offline. One-time authentication, then it stays quiet.
 
 **License:** GNU GPLv3  
 **Copyright:** © 2025–2026 Konstantinos Kyriakopoulos
