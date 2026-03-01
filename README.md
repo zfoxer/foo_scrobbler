@@ -7,6 +7,7 @@ Runs inside foobar2000 (no wrappers), follows strict playback qualification rule
 **Copyright:** © 2025–2026 Konstantinos Kyriakopoulos
 
 ## Choose your platform
+Code and releases live in the platform repos below.
 
 ### macOS (Intel + Apple Silicon)
 - **Repo:** https://github.com/zfoxer/foo_scrobbler_mac  
