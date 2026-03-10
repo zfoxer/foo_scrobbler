@@ -10,13 +10,13 @@ Runs inside foobar (no wrappers), follows strict playback qualification rules, s
 Code and releases live in the platform repos below.
 
 ### macOS (Intel + Apple Silicon)
-- **Repo:** https://github.com/zfoxer/foo_scrobbler_mac  
-- **Release:** 1.0.5  
+- **Repo:** [foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac)  
+- **Release:** [1.0.5](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.0.5)  
 - **OS support:** macOS **11.5+** (Intel, ARM)
 
 ### Windows
-- **Repo:** https://github.com/zfoxer/foo_scrobbler_win  
-- **Release:** 1.0.5  
+- **Repo:** [foo_scrobbler_win](https://github.com/zfoxer/foo_scrobbler_win)  
+- **Release:** [1.0.5](https://github.com/zfoxer/foo_scrobbler_win/releases/tag/v1.0.5)  
 - **OS support:** Windows **10** (x86, x64) and Windows **11** (x64)
 
 ## What it does
