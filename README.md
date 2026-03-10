@@ -33,7 +33,7 @@ Code and releases live in the platform repos below.
 4. Play music. Scrobbling happens automatically.
 
 ## Documentation
-- macOS Wiki (technical docs): https://github.com/zfoxer/foo_scrobbler_mac/wiki
+- macOS Wiki (technical docs): [https://github.com/zfoxer/foo_scrobbler_mac/wiki](https://github.com/zfoxer/foo_scrobbler_mac/wiki)
 
 ## Licensing notes
 This project’s **Foo Scrobbler plugin source code** is licensed under the **MIT License**.
