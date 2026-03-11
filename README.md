@@ -11,7 +11,7 @@ Code and releases live in the platform repos below.
 
 ### macOS (Intel + Apple Silicon)
 - **Repo:** [foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac)  
-- **Release:** [1.0.5](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.0.5)  
+- **Release:** [1.0.6](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.0.6)  
 - **OS support:** macOS **11.5+** (Intel, ARM)
 
 ### Windows
@@ -33,7 +33,7 @@ Code and releases live in the platform repos below.
 4. Play music. Scrobbling happens automatically.
 
 ## Documentation
-- macOS Wiki (technical docs): [https://github.com/zfoxer/foo_scrobbler_mac/wiki](https://github.com/zfoxer/foo_scrobbler_mac/wiki)
+- Wiki (technical docs): [https://github.com/zfoxer/foo_scrobbler_mac/wiki](https://github.com/zfoxer/foo_scrobbler_mac/wiki)
 
 ## Licensing notes
 This project’s **Foo Scrobbler plugin source code** is licensed under the **MIT License**.
