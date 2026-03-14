@@ -1,6 +1,8 @@
 # Foo Scrobbler
 
-<img src="screenshots/screen05.png" alt="Foo Scrobbler screenshot" width="320" align="left" />
+<p align="left">
+  <img src="screenshots/screen05.png" alt="Foo Scrobbler screenshot" width="320" />
+</p>
 
 **Native Last.fm scrobbling for foobar2000.**  
 Runs inside foobar (no wrappers), follows strict playback qualification rules, supports “Now Playing”, and keeps a local queue when you’re offline. One-time authentication, then it stays quiet.
