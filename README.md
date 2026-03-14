@@ -8,6 +8,8 @@ Runs inside foobar (no wrappers), follows strict playback qualification rules, s
 **License:** MIT License  
 **Copyright:** © 2025–2026 Konstantinos Kyriakopoulos
 
+---
+
 ## Choose your platform
 Code and releases live in the platform repos below.
 
