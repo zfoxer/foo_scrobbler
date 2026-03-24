@@ -1,7 +1,7 @@
 # Foo Scrobbler
 
 <p align="left">
-  <img src="screenshots/screen05.png" alt="Foo Scrobbler screenshot" width="360" />
+  <img src="screenshots/screen05.png" alt="Foo Scrobbler screenshot" width="350" />
 </p>
 
 **Native Last.fm scrobbling for foobar2000.**  
