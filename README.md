@@ -22,7 +22,7 @@ Code and releases live in the platform repos below.
 
 ### Windows
 - **Repo:** [foo_scrobbler_win](https://github.com/zfoxer/foo_scrobbler_win)  
-- **Release:** [1.0.7](https://github.com/zfoxer/foo_scrobbler_win/releases/tag/v1.0.7)  
+- **Release:** [1.0.9](https://github.com/zfoxer/foo_scrobbler_win/releases/tag/v1.0.9)  
 - **OS support:** Windows **10** (x86, x64) and Windows **11** (x64, arm64ec)
 
 ## What it does
