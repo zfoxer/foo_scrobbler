@@ -1,7 +1,7 @@
 # Foo Scrobbler
 
 <p align="left">
-  <img src="screenshots/screen05.png" alt="Foo Scrobbler screenshot" width="350" />
+  <img src="screenshots/screen05.png" alt="Foo Scrobbler screenshot" width="360" />
 </p>
 
 **Native Last.fm scrobbling for foobar2000.**  
@@ -17,7 +17,7 @@ Code and releases live in the platform repos below.
 
 ### macOS (Intel + Apple Silicon)
 - **Repo:** [foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac)  
-- **Release:** [1.0.7](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.0.7)  
+- **Release:** [1.0.9](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.0.9)  
 - **OS support:** macOS **11.5+** (Intel, ARM)
 
 ### Windows
