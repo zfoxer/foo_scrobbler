@@ -1,7 +1,13 @@
-# Foo Scrobbler
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/foo-scrobbler_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/foo-scrobbler_light.svg">
+    <img alt="Foo Scrobbler" src="assets/foo-scrobbler_light.svg" width="420">
+  </picture>
+</p>
 
-<p align="left">
-  <img src="screenshots/screen05.png" alt="Foo Scrobbler screenshot" width="360" />
+<p align="center">
+  <img src="assets/prefs_screen.png" alt="Foo Scrobbler screenshot" width="360" />
 </p>
 
 **Native Last.fm scrobbling for foobar2000.**  
@@ -42,6 +48,9 @@ Code and releases live in the platform repos below.
 - Wiki (technical docs): [https://github.com/zfoxer/foo_scrobbler_mac/wiki](https://github.com/zfoxer/foo_scrobbler_mac/wiki)
 
 ## Licensing notes
-This project’s **Foo Scrobbler plugin source code** is licensed under the **MIT License**.
 
-The **foobar2000 SDK is proprietary** and is not covered by the MIT License. It remains the property of its original author (Peter Pawlowski / foobar2000).
+The source code of this project is licensed under the MIT License.
+
+The SDK is proprietary and is not covered by the MIT License. It remains the property of its original author (Peter Pawlowski / foobar2000).
+
+The project logo and related visual brand assets are not covered by the MIT License and remain the intellectual property of Konstantinos Kyriakopoulos. All rights reserved.
