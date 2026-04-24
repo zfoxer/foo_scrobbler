@@ -1,0 +1,113 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Dark mode patch for orderedlist/minimal / pages-themes/minimal */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #0d1117;
+    color: #c9d1d9;
+  }
+
+  .wrapper {
+    background: transparent;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #f0f6fc;
+  }
+
+  p, ul, ol, table, pre, dl {
+    color: #c9d1d9;
+  }
+
+  a {
+    color: #58a6ff;
+  }
+
+  a:hover,
+  a:focus {
+    color: #79c0ff;
+    font-weight: normal;
+  }
+
+  strong {
+    color: #f0f6fc;
+  }
+
+  small {
+    color: #8b949e;
+  }
+
+  header p,
+  footer p,
+  footer small {
+    color: #8b949e;
+  }
+
+  blockquote {
+    border-left: 1px solid #30363d;
+    color: #8b949e;
+  }
+
+  code,
+  pre {
+    background: #161b22;
+    color: #e6edf3;
+    border: 1px solid #30363d;
+  }
+
+  pre code {
+    border: 0;
+    background: transparent;
+  }
+
+  table {
+    border-color: #30363d;
+  }
+
+  th,
+  td {
+    border-bottom: 1px solid #30363d;
+  }
+
+  th {
+    color: #f0f6fc;
+  }
+
+  hr {
+    background: #30363d;
+  }
+
+  img {
+    background: transparent;
+  }
+
+  .downloads {
+    border: 1px solid #30363d;
+    background: #161b22;
+  }
+
+  .downloads li {
+    border-right: 1px solid #30363d;
+  }
+
+  .downloads a {
+    color: #c9d1d9;
+  }
+
+  .downloads a:hover,
+  .downloads a:focus {
+    color: #58a6ff;
+    font-weight: normal;
+  }
+
+  .downloads strong {
+    color: #f0f6fc;
+  }
+
+  .view a small {
+    color: #8b949e;
+  }
+}
