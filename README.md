@@ -28,7 +28,7 @@ Code and releases live in the platform repos below.
 
 ### Windows
 - **Repo:** [foo_scrobbler_win](https://github.com/zfoxer/foo_scrobbler_win)  
-- **Release:** [1.1.0](https://github.com/zfoxer/foo_scrobbler_win/releases/tag/v1.1.0)  
+- **Release:** [1.1.1](https://github.com/zfoxer/foo_scrobbler_win/releases/tag/v1.1.1)  
 - **OS support:** Windows **10** (x86, x64) and Windows **11** (x64, arm64ec) for foobar2000 ≥ v2.24
 
 ## What it does
