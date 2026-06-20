@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Manual PAD file</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description file for software directory submission.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>zfoxer</Company_Name>
+    <Address_1/>
+    <Address_2/>
+    <City_Town/>
+    <State_Province/>
+    <Zip_Postal_Code/>
+    <Country>Spain</Country>
+    <Company_WebSite_URL>https://github.com/zfoxer/foo_scrobbler_win</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Konstantinos</Author_First_Name>
+      <Author_Last_Name>Kyriakopoulos</Author_Last_Name>
+      <Author_Email>klf.igry@gmail.com</Author_Email>
+      <Contact_First_Name>Konstantinos</Contact_First_Name>
+      <Contact_Last_Name>Kyriakopoulos</Contact_Last_Name>
+      <Contact_Email>klf.igry@gmail.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Foo Scrobbler for Windows</Program_Name>
+    <Program_Version>1.5.2</Program_Version>
+    <Program_Release_Month>06</Program_Release_Month>
+    <Program_Release_Day>12</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>USD</Program_Cost_Other_Code>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Windows 10, Windows 11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_System_Requirements>Windows 10 or Windows 11; foobar2000 2.24 or later; Last.fm account for scrobbling.</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>414525</File_Size_Bytes>
+      <File_Size_K>405</File_Size_K>
+      <File_Size_MB>0.40</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count/>
+      <Expire_Based_On/>
+      <Expire_Other_Info/>
+      <Expire_Month/>
+      <Expire_Day/>
+      <Expire_Year/>
+    </Expire_Info>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/zfoxer/foo_scrobbler_win</Application_Info_URL>
+      <Application_Order_URL/>
+      <Application_Screenshot_URL>https://github.com/zfoxer/foo_scrobbler_win/raw/master/assets/prefs_win.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://github.com/zfoxer/foo_scrobbler_win/raw/master/assets/foo-scrobbler_light.svg</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/zfoxer/foo_scrobbler/master/assets/foo_scrobbler_win.pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/zfoxer/foo_scrobbler_win/releases/download/v1.5.2/foo_scrobbler_win-1.5.2-bin.zip</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/zfoxer/foo_scrobbler_win/releases/latest</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://github.com/zfoxer/foo_scrobbler_win/releases/download/v1.5.2/foo_scrobbler_win-1.5.2-src.zip</Additional_Download_URL_1>
+      <Additional_Download_URL_2>https://github.com/zfoxer/foo_scrobbler_win</Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>foobar2000, Last.fm, scrobbler, scrobbling, Windows, Windows 10, Windows 11, x86, x64, ARM64EC, audio, plugin, music, now playing</Keywords>
+      <Char_Desc_45>Last.fm scrobbler for foobar2000 on Windows</Char_Desc_45>
+      <Char_Desc_80>Native Last.fm scrobbler plugin for foobar2000 on Windows.</Char_Desc_80>
+      <Char_Desc_250>Foo Scrobbler for Windows is a native Last.fm scrobbling plugin for foobar2000. It submits played tracks using precise playback rules, supports Now Playing updates, offline caching, dynamic streams, and one-time Last.fm authentication.</Char_Desc_250>
+      <Char_Desc_450>Foo Scrobbler for Windows is a lightweight native Last.fm scrobbling plugin for foobar2000. It submits played tracks only after meaningful playback, sends Now Playing updates, caches scrobbles when offline, and resumes submission automatically. It also supports dynamic streams, regex and Title Formatting filters, strict metadata validation, and clear console logging.</Char_Desc_450>
+      <Char_Desc_2000>Foo Scrobbler for Windows is a native Last.fm scrobbling component for foobar2000 on Windows. It integrates directly with the player without wrappers or external helper applications. The component submits tracks to Last.fm according to precise playback rules, avoiding malformed, premature, or duplicate submissions. It supports Now Playing notifications, automatic offline caching, retry handling, dynamic sources such as radio streams, Unicode-aware filtering, regular expression exclusions, and foobar2000 Title Formatting for input fields and filters. Authentication is performed once through the Last.fm website, after which the component runs quietly in the background. Preferences are available under Tools -&gt; Foo Scrobbler, while console logging reports meaningful internal scrobbling actions. Foo Scrobbler is open-source software released under the MIT License and supports Windows 10 and Windows 11, including x86, x64, and ARM64EC builds where applicable.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions>Foo Scrobbler for Windows may be freely distributed as long as the original package is not modified and the license terms are preserved.</Distribution_Permissions>
+    <EULA>Foo Scrobbler for Windows is released under the MIT License. See the LICENSE file in the project repository for full license terms.</EULA>
+  </Permissions>
+  <ASP>
+    <ASP_FORM>N</ASP_FORM>
+    <ASP_Member_Number/>
+  </ASP>
+</XML_DIZ_INFO>
