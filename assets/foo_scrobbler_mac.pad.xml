@@ -25,7 +25,7 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Foo Scrobbler for Mac</Program_Name>
-    <Program_Version>1.5.2</Program_Version>
+    <Program_Version>1.5.3</Program_Version>
     <Program_Release_Month>06</Program_Release_Month>
     <Program_Release_Day>11</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
@@ -56,14 +56,14 @@
     <Application_URLs>
       <Application_Info_URL>https://github.com/zfoxer/foo_scrobbler_mac</Application_Info_URL>
       <Application_Order_URL/>
-      <Application_Screenshot_URL>https://github.com/zfoxer/foo_scrobbler_mac/raw/master/assets/foo_scrobbler_screenshot.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://github.com/zfoxer/foo_scrobbler_mac/raw/master/assets/foo_scrobbler.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://github.com/zfoxer/foo_scrobbler_mac/releases/download/v1.5.2/foo_scrobbler_mac.pad.xml</Application_XML_File_URL>
+      <Application_Screenshot_URL>https://github.com/zfoxer/foo_scrobbler_mac/raw/master/assets/prefs_shot.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://github.com/zfoxer/foo_scrobbler_mac/raw/master/assets/foo-scrobbler_light.svg</Application_Icon_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/zfoxer/foo_scrobbler/master/assets/foo_scrobbler_mac.pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/zfoxer/foo_scrobbler_mac/releases/download/v1.5.2/foo_scrobbler_mac-1.5.2-bin.zip</Primary_Download_URL>
+      <Primary_Download_URL>https://github.com/zfoxer/foo_scrobbler_mac/releases/download/v1.5.3/foo_scrobbler_mac-1.5.3-bin.zip</Primary_Download_URL>
       <Secondary_Download_URL>https://github.com/zfoxer/foo_scrobbler_mac/releases/latest</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://github.com/zfoxer/foo_scrobbler_mac/releases/download/v1.5.2/foo_scrobbler_mac-1.5.2-src.tar.gz</Additional_Download_URL_1>
+      <Additional_Download_URL_1>https://github.com/zfoxer/foo_scrobbler_mac/releases/download/v1.5.3/foo_scrobbler_mac-1.5.3-src.zip</Additional_Download_URL_1>
       <Additional_Download_URL_2>https://github.com/zfoxer/foo_scrobbler_mac</Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
