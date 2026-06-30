@@ -62,7 +62,7 @@
     </Application_URLs>
     <Download_URLs>
       <Primary_Download_URL>https://github.com/zfoxer/foo_scrobbler_mac/releases/download/v1.5.4/foo_scrobbler_mac-1.5.4-bin.zip</Primary_Download_URL>
-      <Secondary_Download_URL>https://github.com/zfoxer/foo_scrobbler_mac/releases/latest</Secondary_Download_URL>
+      <Secondary_Download_URL>https://sourceforge.net/projects/foo-scrobbler-mac/files/macOS/1.5.4/foo_scrobbler_mac-1.5.4-bin.zip/download</Secondary_Download_URL>
       <Additional_Download_URL_1>https://github.com/zfoxer/foo_scrobbler_mac/releases/download/v1.5.4/foo_scrobbler_mac-1.5.4-src.zip</Additional_Download_URL_1>
       <Additional_Download_URL_2>https://github.com/zfoxer/foo_scrobbler_mac</Additional_Download_URL_2>
     </Download_URLs>
