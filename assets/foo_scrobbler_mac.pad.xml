@@ -25,7 +25,7 @@
   </Company_Info>
   <Program_Info>
     <Program_Name>Foo Scrobbler for Mac</Program_Name>
-    <Program_Version>1.5.4</Program_Version>
+    <Program_Version>1.5.5</Program_Version>
     <Program_Release_Month>06</Program_Release_Month>
     <Program_Release_Day>28</Program_Release_Day>
     <Program_Release_Year>2026</Program_Release_Year>
@@ -38,9 +38,9 @@
     <Program_Language>English</Program_Language>
     <Program_System_Requirements>macOS 11.5 or later; foobar2000 for Mac; Last.fm account for scrobbling.</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>241303</File_Size_Bytes>
-      <File_Size_K>242</File_Size_K>
-      <File_Size_MB>0.24</File_Size_MB>
+      <File_Size_Bytes>246567</File_Size_Bytes>
+      <File_Size_K>247</File_Size_K>
+      <File_Size_MB>0.25</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>
