@@ -23,7 +23,7 @@ Code and releases live in the platform repos below.
 
 ### macOS (Intel + Apple Silicon)
 - **Repo:** [foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac)  
-- **Release:** [1.5.6](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.5.6)  
+- **Release:** [1.5.7](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.5.7)  
 - **OS support:** macOS **11.5+** (Intel, ARM)
 
 ### Windows
