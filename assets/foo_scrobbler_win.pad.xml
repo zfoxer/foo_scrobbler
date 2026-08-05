@@ -57,7 +57,7 @@
       <Application_Info_URL>https://github.com/zfoxer/foo_scrobbler_win</Application_Info_URL>
       <Application_Order_URL/>
       <Application_Screenshot_URL>https://github.com/zfoxer/foo_scrobbler_win/raw/master/assets/prefs_win.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://github.com/zfoxer/foo_scrobbler_win/raw/master/assets/foo-scrobbler_light.svg</Application_Icon_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/zfoxer/foo_scrobbler/master/assets/fs-icon-dark-bg_256x256.png</Application_Icon_URL>
       <Application_XML_File_URL>https://raw.githubusercontent.com/zfoxer/foo_scrobbler/master/assets/foo_scrobbler_win.pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
