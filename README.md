@@ -44,7 +44,7 @@ Code and releases live in the platform repos below.
 - **Low overhead**, lean implementation, no compatibility layers (foobar2000), no 3rd-party deps
 
 ## Quick start
-1. In foobar2000: **Preferences → Components** | In fooyin: **Settings → Integrations → Foo Scrobbler**
+1. In foobar2000: **Preferences → Components**
 2. Install the platform component (`.fb2k-component`) | Compile the source for fooyin and install
 3. Authenticate once with your Last.fm account via browser flow
 4. Play music. Scrobbling happens automatically.
