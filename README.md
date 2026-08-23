@@ -21,9 +21,9 @@ Runs inside foobar2000 (no wrappers), follows strict playback qualification rule
 ## Choose your platform
 Code and releases live in the platform repos below.
 
-### macOS (Intel + Apple Silicon)
+### macOS
 - **Repo:** [foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac)  
-- **Release:** [1.5.7](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v1.5.7)  
+- **Release:** [2.0.0](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v2.0.0)  
 - **OS support:** macOS **11.5+** (Intel, ARM)
 
 ### Windows
