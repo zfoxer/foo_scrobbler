@@ -33,7 +33,7 @@ Code and releases live in the platform repos below.
 
 ### fooyin Player (Port)
 - **Repo:** [foo_scrobbler_yin](https://github.com/zfoxer/foo_scrobbler_yin)  
-- **Release:** [0.9.0](https://github.com/zfoxer/foo_scrobbler_yin/releases/tag/v0.9.0)  
+- **Release:** [2.0.0](https://github.com/zfoxer/foo_scrobbler_yin/releases/tag/v2.0.0)  
 - **OS support:** Linux (fooyin v0.12+)
 
 ## What it does
