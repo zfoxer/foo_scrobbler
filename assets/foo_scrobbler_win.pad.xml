@@ -36,7 +36,7 @@
     <Program_Install_Support>No Install Support</Program_Install_Support>
     <Program_OS_Support>Windows 10, Windows 11</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_System_Requirements>Windows 10 or Windows 11; foobar2000 2.24 or later; Last.fm account for scrobbling.</Program_System_Requirements>
+    <Program_System_Requirements>Windows 10 or Windows 11; foobar2000 2.0 or later; Last.fm account for scrobbling.</Program_System_Requirements>
     <File_Info>
       <File_Size_Bytes>437597</File_Size_Bytes>
       <File_Size_K>438</File_Size_K>
