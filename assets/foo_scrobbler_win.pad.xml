@@ -38,9 +38,9 @@
     <Program_Language>English</Program_Language>
     <Program_System_Requirements>Windows 10 or Windows 11; foobar2000 2.0 or later; Last.fm account for scrobbling.</Program_System_Requirements>
     <File_Info>
-      <File_Size_Bytes>437597</File_Size_Bytes>
-      <File_Size_K>438</File_Size_K>
-      <File_Size_MB>0.44</File_Size_MB>
+      <File_Size_Bytes>755702</File_Size_Bytes>
+      <File_Size_K>758</File_Size_K>
+      <File_Size_MB>0.76</File_Size_MB>
     </File_Info>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>
@@ -61,8 +61,8 @@
       <Application_XML_File_URL>https://raw.githubusercontent.com/zfoxer/foo_scrobbler/master/assets/foo_scrobbler_win.pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://github.com/zfoxer/foo_scrobbler_win/releases/download/v2.0.0/foo_scrobbler_win-2.0.0-bin.zip</Primary_Download_URL>
-      <Secondary_Download_URL>https://sourceforge.net/projects/foo-scrobbler-mac/files/Windows/2.0.0/foo_scrobbler_win-2.0.0-bin.zip/download</Secondary_Download_URL>
+      <Primary_Download_URL>https://github.com/zfoxer/foo_scrobbler_win/releases/download/v2.0.0/foo_scrobbler_win-2.0.0a-bin.zip</Primary_Download_URL>
+      <Secondary_Download_URL>https://sourceforge.net/projects/foo-scrobbler-mac/files/Windows/2.0.0/updated_builds/foo_scrobbler_win-2.0.0a-bin.zip/download</Secondary_Download_URL>
       <Additional_Download_URL_1>https://github.com/zfoxer/foo_scrobbler_win/releases/download/v2.0.0/foo_scrobbler_win-2.0.0-src.zip</Additional_Download_URL_1>
       <Additional_Download_URL_2>https://github.com/zfoxer/foo_scrobbler_win</Additional_Download_URL_2>
     </Download_URLs>
