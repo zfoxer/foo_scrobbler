@@ -3,6 +3,15 @@
 
 @import "{{ site.theme }}";
 
+/* Logo switching: mirror GitHub's fragment convention */
+@media (prefers-color-scheme: light) {
+  img[src$="#gh-dark-mode-only"] { display: none; }
+}
+
+@media (prefers-color-scheme: dark) {
+  img[src$="#gh-light-mode-only"] { display: none; }
+}
+
 /* Dark mode patch for orderedlist/minimal / pages-themes/minimal */
 @media (prefers-color-scheme: dark) {
   body {
