@@ -30,8 +30,8 @@ Code and releases live in the platform repos below.
 
 ### fooyin Player (Port)
 - **Repo:** [foo_scrobbler_yin](https://github.com/zfoxer/foo_scrobbler_yin)  
-- **Release:** [2.0.1](https://github.com/zfoxer/foo_scrobbler_yin/releases/tag/v2.0.1)  
-- **OS support:** Linux (fooyin v0.12+)
+- **Release:** [2.0.2](https://github.com/zfoxer/foo_scrobbler_yin/releases/tag/v2.0.2)  
+- **OS support:** Linux (fooyin v0.14+)
 
 ## What it does
 - **Now Playing** and **scrobbles** via the official **Last.fm Scrobbling 2.0 API**
