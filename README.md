@@ -20,8 +20,8 @@ Code and releases live in the platform repos below.
 
 ### macOS
 - **Repo:** [foo_scrobbler_mac](https://github.com/zfoxer/foo_scrobbler_mac)  
-- **Release:** [2.0.1](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v2.0.1)  
-- **OS support:** macOS **11.5+** (Intel, ARM)
+- **Release:** [2.0.3](https://github.com/zfoxer/foo_scrobbler_mac/releases/tag/v2.0.3)  
+- **OS support:** macOS **11.0+** (Intel, ARM)
 
 ### Windows
 - **Repo:** [foo_scrobbler_win](https://github.com/zfoxer/foo_scrobbler_win)  
